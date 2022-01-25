@@ -36,6 +36,7 @@ types {
     application/vnd.google-earth.kml+xml  kml;
     application/vnd.google-earth.kmz      kmz;
     application/x-7z-compressed           7z;
+    application/wasm                      wasm;
     application/x-cocoa                   cco;
     application/x-java-archive-diff       jardiff;
     application/x-java-jnlp-file          jnlp;
